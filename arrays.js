@@ -68,3 +68,5 @@ console.log(`avg marks of the class = ${avg}`);
 /*for a given array with prices of 5 times -> [250, 645, 300, 900, 50]
 All items have an offer of 10% off on them . Change the array to store final ptice after applying offer*/
 let items = [250, 645, 300, 900, 50];
+
+let array = [1, 2, 3, 4, 5];
